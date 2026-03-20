@@ -10,4 +10,4 @@ cat ./-
 ## Ce que j'ai appris
 - Un fichier nommé "-" ne peut pas être lu avec cat - directement
 - Il faut utiliser le chemin relatif ./-  pour le lire
-- Linux interprète "-" comme un argument spécial
+- Linux interprète "-" comme un argument spécial.
