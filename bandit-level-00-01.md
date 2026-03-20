@@ -12,4 +12,4 @@ cat readme
 ## Ce que j'ai appris
 - Comment se connecter à un serveur distant via SSH
 - La commande ls pour lister les fichiers
-- La commande cat pour lire le contenu d'un fichier
+- La commande cat pour lire le contenu d'un fichier.
